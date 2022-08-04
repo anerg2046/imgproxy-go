@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	imgproxygo "imgproxy-go"
+
+	imgproxygo "github.com/anerg2046/imgproxy-go"
 )
 
 func main() {
